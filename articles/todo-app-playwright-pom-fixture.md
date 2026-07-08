@@ -3,7 +3,7 @@ title: "PlaywrightのE2EテストをPOM+Fixtureで設計した話"
 emoji: "🧪"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["playwright", "e2e", "typescript", "qa", "testautomation"]
-published: false
+published: true
 ---
 
 ## はじめに
