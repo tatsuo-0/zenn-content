@@ -8,7 +8,7 @@ published: false
 
 ## はじめに
 
-SHIFTでQAエンジニアとして働きながら、業務外でPlaywrightを使ったE2Eテストの自動化を学習しています。
+QAエンジニアとして働きながら、業務外でPlaywrightを使ったE2Eテストの自動化を学習しています。
 今回、学習用に作ったシンプルなTodoアプリに対してE2Eテストを実装し、[GitHubに公開](https://github.com/tatsuo-0/todo-app-playwright)しました。
 
 この記事では、テストコードそのものよりも「どう設計したか」「なぜそう設計したか」に焦点を当てて書きます。
